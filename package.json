@@ -31,7 +31,7 @@
     "rxjs": "^6.5.4",
     "typeorm": "^0.2.25",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.12.2"
+    "class-validator": "^0.14.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.0.0",
